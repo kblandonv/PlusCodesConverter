@@ -12,7 +12,7 @@ Este proyecto utiliza la API de Google Maps para convertir Plus Codes en coorden
 1. **Clona este repositorio**:
 
    ```bash
-   git clone 
+   git clone https://github.com/kblandonv/PlusCodesConverter
 
 2. **Instala las dependencias**:
 
