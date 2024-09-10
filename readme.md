@@ -25,14 +25,15 @@ Crea un archivo .env en el mismo directorio que tu script.
 
 Agrega tu clave de API de Google Maps en el archivo .env con el siguiente formato:
 
-    ```
     GOOGLE_MAPS_API_KEY=tu_clave_de_api_aqui
+
 
 ## Uso
 Ejecuta el script:
 
-    ```python
-    ubicaciones.py
+    ```bash
+    python ubicaciones.py
+    ```
 
 Esto generará un archivo ubicaciones.kml en el directorio actual.
 
