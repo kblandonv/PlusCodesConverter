@@ -49,6 +49,8 @@ Ejemplo de Plus Codes:
 
 ## Archivos Generados
 ubicaciones.kml: Archivo KML con la información de las ubicaciones geocodificadas.
+
+##
 Contribuciones
 Si deseas contribuir a este proyecto, por favor haz un fork del repositorio y realiza un pull request con tus mejoras.
 
